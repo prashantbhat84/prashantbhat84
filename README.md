@@ -4,7 +4,7 @@ JS Developer with 5+ years of Industry experience .My biggest strength is my abi
 
 Skills: **React.js ,Node.js, Microservices,AWS(EC2,S3,Certificate Manager,Route53,Lambda),Git(Github Actions)**
 
-- 🔭 I’m currently working on I am working on an app with microservices with Node.js and React.js 
+- 🔭 I’m currently working on an app with microservices with Node.js and React.js 
 - 🤔 I’m looking for help with Remote Jobs 
 - 📫 How to reach me: prashant.work.1984@gmail.com 
 
