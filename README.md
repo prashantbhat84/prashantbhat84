@@ -2,12 +2,12 @@
 
 I am Prashant from Bangalore.I and a full stack application developer.  You can check me out on linkedin @ https://www.linkedin.com/in/prashantrohidasbhat/
 
-<div dispaly="flex">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantbhat84)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
 <!--
 **prashantbhat84/prashantbhat84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
