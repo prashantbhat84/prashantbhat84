@@ -1,25 +1,22 @@
-### Hi there 👋
+### Hi there 👋, My Name is Prashant
+#### I am a Javascript Full Stack Developer
+JS Developer with 5+ years of Industry experience .My biggest strength is my ability to think to a problem and come up with a viable solution
 
-I am Prashant from Bangalore.I and a full stack application developer.  You can check me out on linkedin @ https://www.linkedin.com/in/prashantrohidasbhat/
+Skills: **React.js ,Node.js, Microservices,AWS(EC2,S3,Certificate Manager,Route53,Lambda),Git(Github Actions)**
+
+- 🔭 I’m currently working on I am working on an app with microservices with Node.js and React.js 
+- 🤔 I’m looking for help with Remote Jobs 
+- 📫 How to reach me: prashant.work.1984@gmail.com 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantbhat84)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prashantbhat84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@prashantbhat84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashantrohidasbhat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/prashant-bhat)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantbhat84&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prashantbhat84)  
 
-<!--
-**prashantbhat84/prashantbhat84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub metrics](https://metrics.lecoq.io/prashantbhat84)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/prashantbhat84)  
