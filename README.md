@@ -6,7 +6,7 @@ Skills: React.JS,Node.JS,AWS
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Docker,Kubernetes,CI/CD 
 - 🤔 I’m looking for help with Remote Job opportunities 
-- 📫 How to reach me: prashantbhat84@gmail.com 
+- 📫 How to reach me: prashant.work.1984@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prashantbhat84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashantrohidasbhat/)  
