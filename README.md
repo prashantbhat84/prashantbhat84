@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Prashant
 #### I am a **Full Stack Web Developer**
 
-Skills: React.JS,Node.JS,AWS
+Skills: React.JS,Node.JS,AWS, IOS App development
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Docker,Kubernetes,CI/CD 
