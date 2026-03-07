@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Prashant
 #### I am a **Full Stack Web Developer**
 
-Skills: React.JS,Node.JS,AWS,Next.js and React Native  App development
+Skills: React.JS,Node.JS,AWS,Next.js and IOS  App development
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning  AI and RAG 
